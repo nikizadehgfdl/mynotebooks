@@ -30,6 +30,11 @@ dependencies:
   - graphviz
   - ipyleaflet 
   - intake
+  - intake-esm
   - gcsfs
   - nc-time-axis
-
+  - dask_gateway
+  - cmocean
+  - tqdm
+  - hvplot
+  - datashader

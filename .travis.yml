@@ -20,6 +20,6 @@ before_install:
 
 install:
   - conda env create --file ci/environment.yml
-  - source activate repro
+  - source activate om4labs
 
 script:
