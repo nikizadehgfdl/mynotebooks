@@ -33,7 +33,6 @@ dependencies:
   - intake-esm
   - gcsfs
   - nc-time-axis
-  - dask_gateway
   - cmocean
   - tqdm
   - hvplot
